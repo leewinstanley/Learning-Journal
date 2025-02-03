@@ -1,6 +1,9 @@
 Objectives
+
 1, Understand the Value of Data in modern Organisations.
+
 2, Become Familiar with different types and sources of data.
+
 2, Appreciate the significance of standardsm, Best practices, regulations.
 
 
