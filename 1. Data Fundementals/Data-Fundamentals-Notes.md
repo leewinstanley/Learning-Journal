@@ -5,18 +5,18 @@
  2, Appreciate the significance of standardsm, Best practices, regulations.
 
 
-Key Concepts
-The Data Science Hierarchy of Needs
+# Key Concepts
+### The Data Science Hierarchy of Needs
 
 ![image](https://github.com/user-attachments/assets/ac4bee35-ea2d-417a-87a6-12edbd166dda)
 
-Small Data examples
+### Small Data examples
   Easy for humans to comprehend
   Fitness Tracker recording Daily steps
   Contacts in a mobile phones address book
   A simp0le spreadsheet tracking monthly expenses
 
-  Big Data Examples
+  ### Big Data Examples
     extremely large and diverse collections of structured, unstructured, and semi-structured data that continues to grow exponentially over time. 
     These datasets are so huge and complex in volume, velocity, and variety, that traditional data management systems cannot store, process, and analyze them
 
