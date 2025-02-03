@@ -94,4 +94,12 @@ In essence, OpenAPI makes it easier to create, share, and maintain APIs by provi
 Questions
 
 
+Engineering Best Practice.
+  Scaleability
+  Security
+  Reliability
+  Performance Optimisation
+  Data Documentation
+  
+
 Reflections
