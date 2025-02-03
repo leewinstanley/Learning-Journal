@@ -46,7 +46,7 @@ Data Formats
      Impact: 
        Many web applications, including social media platforms and e-commerce websites, rely on JSON for seamless communication.
        
-    ![image](https://github.com/user-attachments/assets/aa85f2a2-b8ff-44cf-819b-5f5db2a71a78)
+   ![image](https://github.com/user-attachments/assets/aa85f2a2-b8ff-44cf-819b-5f5db2a71a78)
 
   CSV-
     Description: 
