@@ -24,6 +24,7 @@ Small Data examples
 ![image](https://github.com/user-attachments/assets/63a94ae3-c0fd-43d5-9cdc-5b21e89c2655)
 
 Appreciate Data Sizes
+
 ![image](https://github.com/user-attachments/assets/f3721d80-26a7-4063-b630-c1e81d462dad)
 
 Types Of Data
