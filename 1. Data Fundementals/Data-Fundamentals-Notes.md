@@ -7,6 +7,7 @@ Objectives
 
 Key Concepts
 The Data Science Hierarchy of Needs
+
 ![image](https://github.com/user-attachments/assets/ac4bee35-ea2d-417a-87a6-12edbd166dda)
 
 Small Data examples
