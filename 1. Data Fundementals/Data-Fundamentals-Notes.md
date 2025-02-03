@@ -30,16 +30,16 @@
 
 ### Types Of Data
   Qualitative  
-    Biominal -Like Binary 1/0 Yes/No  
-    Nominal - cannot be put into order. eg form of tranmsport bus,car,plane etc  
-    Ordial - Catagorical data that can be ordered eg agree, neutral, disagree  
+    - Biominal -Like Binary 1/0 Yes/No  
+    - Nominal - cannot be put into order. eg form of tranmsport bus,car,plane etc  
+    - Ordial - Catagorical data that can be ordered eg agree, neutral, disagree  
 
   Qantitative  
-    Discrete - Non Divisable counts of something . eg no of customers in a store  
-    Continuous - Can take any VALUE bug and be made finer intyervals. example temperature, Length  
+    - Discrete - Non Divisable counts of something . eg no of customers in a store  
+    - Continuous - Can take any VALUE bug and be made finer intyervals. example temperature, Length  
 
 ### Data Formats
-   Json -  
+   - Json -  
       Description:  
         JSON is a lightweight, human-readable format for transmitting data between servers and web applications,
         enhancing user experiences and performance. 
@@ -48,7 +48,7 @@
        
    ![image](https://github.com/user-attachments/assets/aa85f2a2-b8ff-44cf-819b-5f5db2a71a78)
 
-  CSV-  
+  - CSV-  
     Description:   
       CSV is a widely used format for storing tabular data, facilitating efficient financial management and reporting processes. 
       A classic example is Microsoft Excel files.  
@@ -56,7 +56,7 @@
    Impact:   
       Financial institutions often use CSV files for data integration and analysis.  
   
-  XML -  
+  - XML -  
     Description:   
       XML is a markup language for structuring and exchanging data between systems, promoting interoperability.  
   
@@ -92,11 +92,11 @@ Questions
 
 
 ### Engineering Best Practice.
-  Scaleability  
-  Security  
-  Reliability  
-  Performance Optimisation  
-  Data Documentation  
+  - Scaleability  
+  - Security  
+  - Reliability  
+  - Performance Optimisation  
+  - Data Documentation  
   
 
 Reflections
