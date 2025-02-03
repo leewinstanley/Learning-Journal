@@ -67,8 +67,30 @@ Data Formats
    Regulatory Requirements
 
    ![image](https://github.com/user-attachments/assets/cb99f9f5-d2f9-4d4f-8ff1-71643c171397)
+   
+  Cloud Computing Standards
+
+  
+The AWS Well-Architected Framework is a set of best practices and guidelines designed to help you build secure, high-performing, resilient, and efficient applications in the cloud. It focuses on six key areas, known as pillars:
+
+1. Operational Excellence: Ensuring your systems run smoothly and can be easily managed and improved.
+2. Security: Protecting your data and systems from threats.
+3. Reliability: Making sure your applications work correctly and can recover quickly from failures.
+4. Performance Efficiency: Using resources effectively to meet your needs.
+5. Cost Optimization: Managing costs to avoid unnecessary spending.
+6. Sustainability: Minimizing environmental impact by using resources efficiently(https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)(https://aws.amazon.com/architecture/well-architected/).
+
+By following these guidelines, you can create cloud applications that are robust, secure, and cost-effective. Does that help clarify things? Message has links.
 
 
+OpenAPI is a specification for building and describing HTTP APIs in a way that is independent of any specific programming language. Here’s a simple breakdown:
+
+Standardized Format: OpenAPI provides a consistent way to define your API’s structure and behavior using a standard format, typically written in JSON or YAML.
+Language-Agnostic: It doesn’t matter what programming language your API is written in; OpenAPI can describe it.
+Documentation: It helps generate documentation automatically, making it easier for developers to understand and use your API.
+Tools Integration: You can use OpenAPI definitions with various tools to generate client libraries, server stubs, and even test cases.
+Lifecycle Support: OpenAPI supports the entire API lifecycle, from design and development to deployment and maintenance12.
+In essence, OpenAPI makes it easier to create, share, and maintain APIs by providing a clear and standardized way to describe them. Does that help clarify things?
 Questions
 
 
