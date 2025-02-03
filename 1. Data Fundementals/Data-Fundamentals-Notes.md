@@ -17,18 +17,18 @@
   A simp0le spreadsheet tracking monthly expenses
 
   ### Big Data Examples
-    extremely large and diverse collections of structured, unstructured, and semi-structured data that continues to grow exponentially over time. 
+   extremely large and diverse collections of structured, unstructured, and semi-structured data that continues to grow exponentially over time. 
     These datasets are so huge and complex in volume, velocity, and variety, that traditional data management systems cannot store, process, and analyze them
 
 ![image](https://github.com/user-attachments/assets/1ed9451d-e900-4cd3-9490-ecc4e1876ba5)
 
 ![image](https://github.com/user-attachments/assets/63a94ae3-c0fd-43d5-9cdc-5b21e89c2655)
 
-Appreciate Data Sizes
+### Appreciate Data Sizes
 
 ![image](https://github.com/user-attachments/assets/f3721d80-26a7-4063-b630-c1e81d462dad)
 
-Types Of Data
+### Types Of Data
   Qualitative
     Biominal -Like Binary 1/0 Yes/No
     Nominal - cannot be put into order. eg form of tranmsport bus,car,plane etc
@@ -38,7 +38,7 @@ Types Of Data
     Discrete - Non Divisable counts of something . eg no of customers in a store
     Continuous - Can take any VALUE bug and be made finer intyervals. example temperature, Length
 
-Data Formats
+### Data Formats
    Json -
       Description: 
         JSON is a lightweight, human-readable format for transmitting data between servers and web applications,
@@ -68,7 +68,7 @@ Data Formats
 
    ![image](https://github.com/user-attachments/assets/cb99f9f5-d2f9-4d4f-8ff1-71643c171397)
    
-  Cloud Computing Standards
+  ### Cloud Computing Standards
 
   
 The AWS Well-Architected Framework is a set of best practices and guidelines designed to help you build secure, high-performing, resilient, and efficient applications in the cloud. It focuses on six key areas, known as pillars:
@@ -94,7 +94,7 @@ In essence, OpenAPI makes it easier to create, share, and maintain APIs by provi
 Questions
 
 
-Engineering Best Practice.
+### Engineering Best Practice.
   Scaleability
   Security
   Reliability
