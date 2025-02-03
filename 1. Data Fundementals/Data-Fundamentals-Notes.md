@@ -64,7 +64,10 @@ Data Formats
     XML enables seamless communication and data exchange between disparate systems, fostering collaboration and enhancing the efficiency of information sharing in domains such as web services, e-commerce, healthcare, and finance.
   ![image](https://github.com/user-attachments/assets/d5eaa3a5-930c-47be-b966-b9783ef3ab08)
 
-    
+   Regulatory Requirements
+
+   ![image](https://github.com/user-attachments/assets/cb99f9f5-d2f9-4d4f-8ff1-71643c171397)
+
 
 Questions
 
