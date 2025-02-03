@@ -43,24 +43,24 @@
       Description:  
         JSON is a lightweight, human-readable format for transmitting data between servers and web applications,
         enhancing user experiences and performance. 
-     Impact: 
-       Many web applications, including social media platforms and e-commerce websites, rely on JSON for seamless communication.
+      Impact: 
+        Many web applications, including social media platforms and e-commerce websites, rely on JSON for seamless communication.
        
    ![image](https://github.com/user-attachments/assets/aa85f2a2-b8ff-44cf-819b-5f5db2a71a78)
 
   - CSV-  
-    Description:   
-      CSV is a widely used format for storing tabular data, facilitating efficient financial management and reporting processes. 
-      A classic example is Microsoft Excel files.  
+     Description:   
+       CSV is a widely used format for storing tabular data, facilitating efficient financial management and reporting processes. 
+       A classic example is Microsoft Excel files.  
   
-   Impact:   
-      Financial institutions often use CSV files for data integration and analysis.  
+    Impact:   
+       Financial institutions often use CSV files for data integration and analysis.  
   
   - XML -  
     Description:   
       XML is a markup language for structuring and exchanging data between systems, promoting interoperability.  
   
-  Impact:   
+   Impact:   
     XML enables seamless communication and data exchange between disparate systems, fostering collaboration and enhancing the efficiency of information sharing in domains such as web services, e-commerce, healthcare, and finance.  
   ![image](https://github.com/user-attachments/assets/d5eaa3a5-930c-47be-b966-b9783ef3ab08)
 
