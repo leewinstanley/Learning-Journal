@@ -42,7 +42,9 @@
    - Json -  
       **Description:**  
         JSON is a lightweight, human-readable format for transmitting data between servers and web applications,
-        enhancing user experiences and performance. 
+        enhancing user experiences and performance.  
+     ![image](https://github.com/user-attachments/assets/0f5e9e16-44d5-481a-85d8-5e9fe8b46528)
+
       **Impact:** 
         Many web applications, including social media platforms and e-commerce websites, rely on JSON for seamless communication.
        
@@ -52,14 +54,16 @@
      **Description:**   
        CSV is a widely used format for storing tabular data, facilitating efficient financial management and reporting processes. 
        A classic example is Microsoft Excel files.  
-  
+  ![image](https://github.com/user-attachments/assets/d5f139a6-d70c-4052-a44f-b5aa694a13cf)
+
     **Impact:**   
        Financial institutions often use CSV files for data integration and analysis.  
   
   - XML -  
     **Description:**   
       XML is a markup language for structuring and exchanging data between systems, promoting interoperability.  
-  
+  ![image](https://github.com/user-attachments/assets/2afcb647-c1c7-4138-a16a-9963ed164eb7)
+
      **Impact:**   
     XML enables seamless communication and data exchange between disparate systems, fostering collaboration and enhancing the efficiency of information sharing in domains such as web services, e-commerce, healthcare, and finance.  
   ![image](https://github.com/user-attachments/assets/d5eaa3a5-930c-47be-b966-b9783ef3ab08)
@@ -96,5 +100,111 @@ In essence, OpenAPI makes it easier to create, share, and maintain APIs by provi
   - Performance Optimisation  
   - Data Documentation  
   
+### Data Quality Metrics  
+![Screenshot 2025-02-14 at 13 30 49](https://github.com/user-attachments/assets/44780775-9446-4d9a-9368-235bfc5a08dc)
+![image](https://github.com/user-attachments/assets/353dd715-e4f7-4cf8-80d3-44737abbc5b6)
+
+  
+  ![image](https://github.com/user-attachments/assets/78c19f8b-fa32-49ca-b2ee-282b2edf48bc)
+  ![image](https://github.com/user-attachments/assets/f8a15a2a-06a7-4df5-9e50-e94f6dbb3a08)
+  
+  ### Data Lineage & Unique Identifiers
+  - UID Unique in individaul system
+  - UUID unique Globally
+
+    ![image](https://github.com/user-attachments/assets/a33ebfc9-064d-498f-b816-19ec4f1b7b02)
+    ![image](https://github.com/user-attachments/assets/1dfdf03e-1f77-42e2-ab09-d7908cbd0e2d)
+
+      
+  ## overcoming data challenges with data stewardship
+  - Data cleansing initiatives
+  - Data validation processes
+  - Improved data entry procedures
+  - Enhanded data reporting
+  - Feedback loops for continuous improvement
+
+    ## sustainability
+    - Data compression , smaller files to transmit
+    - smart transfer scheduling, off peak, overnight, cheaper cost
+    - regular aduits of efficeincy
+    - avoid duplication
+
+
+ # Data Quality framework  
+  ![image](https://github.com/user-attachments/assets/ed4ea0ae-1ee3-477b-98f0-8150c758fef0)
+
+# Ways of Working  
+
+## Waterfall Method
+-sequential,
+  - Requirements
+  - Design
+  - Development
+  - testing
+  - deployment
+
+- ### limitations  
+![image](https://github.com/user-attachments/assets/97049c80-3aff-4d7b-ba99-2e4df7b6915a)
+
+#A gile method  
+- smaller individual chunks
+- faster iteration
+- enhanced collaboration
+- easy to accomodate change
+- flexible planning
+- Broken down into Kanban boards at LLoyds. easy to see WIP and progress
+- Limits WIP to speed
+- sprints 2-4 weeks long
+
+  ![image](https://github.com/user-attachments/assets/7fbecb06-8e6f-4e85-9c4d-e9786404fad9)
+
+  # Scrum master
+  ![image](https://github.com/user-attachments/assets/46cc6e00-b93c-4564-a0fb-c511b6cb7bbd)
+
+# Product owner
+![image](https://github.com/user-attachments/assets/73a060b8-2d34-4fc4-9e24-3f0430b9f14c)
+![image](https://github.com/user-attachments/assets/ce7763b6-62e6-4b87-9e1f-3baa853519c5)
+
+# Sprint Planning
+![image](https://github.com/user-attachments/assets/adcff5f8-06af-4113-b8e5-8d0ae9a0c96d)
+
+### BurnDown Chart
+
+- Tracks remaining work against time
+- helps monitor progress and ahderence to sprint goals
+- identifies deviations
+- early detection of bottlenecks and blockers  
+  ![image](https://github.com/user-attachments/assets/0c30ef9c-e756-4b84-95ad-97ac2120daf2)
+
+  ![image](https://github.com/user-attachments/assets/51a99f38-42b5-4fa2-91cd-20d6281581de)
+
+  ## Sprint Reviews
+  - occurs at the end of each cycle
+  - Demonstrate completed work to stakeholders
+  - showcase product that has been developed in that sprint
+
+  ## Sprint Retro's
+  - what worked well
+  - what could be improved
+  - what will we commit to in next sprint
+  - review definition of done for whole sprint
+
+    ### User story writing
+    ![image](https://github.com/user-attachments/assets/c6cf2cb8-8872-40a9-acd8-b608efd9a483)
+![image](https://github.com/user-attachments/assets/e9eb7e76-b1e9-4d63-8ee8-af3b0face2db)
+
+    
+
+    
+
+
+
+
+
+
+  
+
+
+
 
 Reflections
