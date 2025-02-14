@@ -26,3 +26,4 @@ over18 & overtime columns are not standardised data. "Y" "YES" for example
 Monthly income & monthgly rate do not identify the the data is. is it money, £ , P etc  
 EmployeeNumber needs to be Unique
 
+https://github.com/leewinstanley/Learning-Journal/blob/main/1.%20Data%20Fundementals/WA_Fn-UseC_-HR-Employee-Attrition.csv
