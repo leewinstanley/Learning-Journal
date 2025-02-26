@@ -11,8 +11,9 @@
   - `rm <filename>` – Delete a file.
   - `cp <source> <destination>` – Copy a file.
   - `mv <source> <destination>` – Move/rename a file.
+![image](https://github.com/user-attachments/assets/8e868e06-e3be-44eb-9797-6dc00c12b09c)
+![image](https://github.com/user-attachments/assets/9631d5e3-2444-4209-ae54-9a6b94e47fb8)
 
-![Filesystem Diagram](filesystem_diagram.png)
 
 ---
 
