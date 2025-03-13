@@ -1,5 +1,3 @@
-Revision Notes: Schemas and Integration (Rev. 1 - 2024)
-
 Overview
 
 This document summarizes key concepts and best practices related to schemas and database integration. It covers fundamental topics such as data profiling, indexing, query optimization, and security measures.
@@ -57,6 +55,7 @@ Learn: Understanding primary keys helps in designing well-structured relational 
 3. Foreign Keys
 
 Definition: A foreign key is a column or set of columns in a table that establishes a relationship between the data in two tables.
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/3232fdda-eeec-4978-b001-ef502ac70849" />
 
 Usage:
 
@@ -134,13 +133,14 @@ Implement robust security measures to mitigate data risks.
 
 Develop recovery strategies to ensure high availability and data integrity.
 
-References
+*** OLAP Vs OLTP
+<img width="1331" alt="image" src="https://github.com/user-attachments/assets/a6a69041-39fc-4c28-9c60-7ea37018fa38" />
 
-Industry whitepapers on database architecture.
+Star & snowflake Schemas
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/2be8c3c5-4f87-43d1-a72b-10204d7a5b24" />
 
-SQL and NoSQL database documentation.
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/c471a00f-eeff-425b-a1c3-4623a7fb3a2b" />
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/0c14c060-a2f6-4456-8a82-bb76abe9ed91" />
 
-Case studies on database optimization and security best practices.
-
-Note: This revision document is intended for GitHub documentation and collaboration. Updates and contributions are welcome to refine best practices and adapt to emerging database trends.
+![Uploading image.png…]()
 
